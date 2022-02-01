@@ -1,1 +1,3 @@
-*.log
+errors.log
+request.log
+we.html
